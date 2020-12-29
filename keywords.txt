@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map for BMA250
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BMA250	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+readMag		KEYWORD2
+readTemp	KEYWORD2
+sleep		KEYWORD2
+wake		KEYWORD2
+readMode	KEYWORD2
+access		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+A1454_ADDRESS			LITERAL1
+A1454_ACCESS_ADDRESS	LITERAL1
+A1454_ACCESS_CODE		LITERAL1
+A1454_TEMPOUT			LITERAL1
+A1454_OUTPUT			LITERAL1
+A1454_SLEEP				LITERAL1
