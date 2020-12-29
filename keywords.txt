@@ -1,12 +1,12 @@
 #######################################
-# Syntax Coloring Map for BMA250
+# Syntax Coloring Map for A1454
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-BMA250	KEYWORD1
+TinyCircuits_A1454	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
